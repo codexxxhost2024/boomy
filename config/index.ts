@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const siteConfig: Metadata = {
-  title: "Yoom",
+  title: "Boomy",
   description: "Modern Next.js powered Video calling app",
   keywords: [
     "reactjs",
@@ -39,11 +39,11 @@ export const siteConfig: Metadata = {
     "css",
   ] as Array<string>,
   authors: {
-    name: "Sanidhya Kumar Verma",
-    url: "https://github.com/sanidhyy",
+    name: "Master Dee",
+    url: "https://boomy-flax.vercel.app/sign-in?redirect_url=https%3A%2F%2Fboomy-flax.vercel.app%2F",
   },
 } as const;
 
 export const links = {
-  sourceCode: "https://github.com/sanidhyy/zoom-clone",
+  sourceCode: "https://aiteksoftware.site/boomy",
 } as const;
